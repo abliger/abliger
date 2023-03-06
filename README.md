@@ -1,10 +1,10 @@
 ### Nice to meet you 😊
 
-I'm obsessed by rust.
+![](https://komarev.com/ghpvc/?username=abliger&style=flat-square)
+
+I'm obsessed by rust. 
 
 ### Github Stats
-
-![Visitor Count](https://profile-counter.glitch.me/abiger/count.svg)
 
 <div>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=abliger&show_icons=true&theme=radical"/>
